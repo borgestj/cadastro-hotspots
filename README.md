@@ -13,4 +13,3 @@ Com tudo instalado startamos a aplicação com <strong>npm run dev</strong>.</p>
 
 <p>Para acessar  aaplicação precisamos no navegador colocar o endereço <link>http://localhost:8080</link></p></br></br></br>
 
-<a href="cadastro-hotspots/Gerenciador-Hotspot/imagemProjeto.jpg"><img src="cadastro-hotspots/Gerenciador-Hotspot/imagemProjeto.jpg" title="Projeto"/></a>
