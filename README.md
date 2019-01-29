@@ -12,5 +12,3 @@ Feito isso precisamos entrar no Backend e no terminar rodar <strong>npm i</stron
 Com tudo instalado startamos a aplicação com <strong>npm run dev</strong>.</p></br>
 
 <p>Para acessar  aaplicação precisamos no navegador colocar o endereço <link>http://localhost:8080</link></p></br></br></br>
-
-<a href="https://drive.google.com/file/d/12mnymKg64Cz_6oqtyflz9uY1z_l3QSfC/view?usp=sharing"><img src="https://drive.google.com/file/d/12mnymKg64Cz_6oqtyflz9uY1z_l3QSfC/view?usp=sharing" title="Cadastro Hotspots"/></a>
