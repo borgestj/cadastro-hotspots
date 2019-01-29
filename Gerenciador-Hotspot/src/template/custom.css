@@ -1,0 +1,49 @@
+table {
+    margin-top: 50px;
+    margin-left: 40%;
+    text-align: left;
+    font-size: 20px;
+    color: grey;
+}
+
+.th table {
+    text-align: center;
+    font-size: 18px;
+}
+
+tbody {
+    margin-right: 200px;
+}
+
+.btn {
+    background-color: #0FC0C7;
+    color: white;
+    border-radius: 350px;
+    margin-top: 80px;
+    margin-left: 40%; 
+}
+
+nav {
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.li {
+    height: 50px;
+    text-align: right;
+    font-size: 100px;
+}
+
+a {
+    font-size: 18px;
+    background: white;
+    border-radius: 5px;
+    text-decoration: underline;
+}
+
+.img {
+    padding-top: 0px;
+}
+
+
