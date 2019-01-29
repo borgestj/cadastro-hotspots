@@ -13,4 +13,4 @@ Com tudo instalado startamos a aplicação com <strong>npm run dev</strong>.</p>
 
 <p>Para acessar  aaplicação precisamos no navegador colocar o endereço <link>http://localhost:8080</link></p></br></br></br>
 
-<a href="https://imgflip.com/gif/2sbx4e"><img src="https://i.imgflip.com/2sbx4e.gif" title="Cadastro Hotspots"/></a>
+<a href="https://drive.google.com/file/d/12mnymKg64Cz_6oqtyflz9uY1z_l3QSfC/view?usp=sharing"><img src="https://drive.google.com/file/d/12mnymKg64Cz_6oqtyflz9uY1z_l3QSfC/view?usp=sharing" title="Cadastro Hotspots"/></a>
