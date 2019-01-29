@@ -1,4 +1,4 @@
-# <title>cadastro-hotspots</title>
+<center># cadastro-hotspots</center>
 
 <p>Sistema para cadastro simples de Hotspot.</p></br>
 
